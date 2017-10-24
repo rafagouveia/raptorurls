@@ -1,0 +1,340 @@
+EP 40
+EP 95 AO 112
+251
+269
+278
+341
+95 ao 112
+EP FALTANDO 503 
+EP 459 AO 768
+LISTA E TORRENTS
+
+6 temporada - 459 ao 526 
+7 temporada - 527 ao 574
+8 temporada - 575 ao 750                                                                                           
+[
+    [517 ao 579 = "magnet:?xt=urn:btih:6173A1966B1EF78D146882CE68257928416706F1&dn=One%20Piece%20EX%20-%2010%20Ilha%20dos%20Trit%c3%b5es&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"]
+
+    [579 ao 628 = "magnet:?xt=urn:btih:E6E7AC96AA801473654E5EDFDC6743625C39C6CE&dn=One%20Piece%20EX%20-%2011%20Punk%20Hazard&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"]
+
+    [629 ao 746 = "magnet:?xt=urn:btih:E9792DFFFF8A4F289B5136B12DB7889A21CEB82D&dn=One%20Piece%20EX%20-%2012%20Dressrosa&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"]
+
+    [747 ao 782 = "magnet:?xt=urn:btih:a27ac3d2b7fd498b6e30b5d87bedb806a40bf98f&dn=One+Piece+EX+-+13+Zou&xl=8671915204&tr=udp://tracker.opentrackr.org:1337/announce"]
+]
+459 - https://goo.gl/photos/ZSEhE3g8ktgvJV9S7
+460 - https://goo.gl/photos/PkLmbMGZDaXFhfo89
+461 - https://goo.gl/photos/oBEbM78FGgEikiWh9
+462 - https://goo.gl/photos/qXSZZ6mKVp682owa9
+463 - https://goo.gl/photos/uTBW8g6z6HC4B8AJ8
+464 - https://goo.gl/photos/Adq8yfK3UiebwJ1V8
+465 - https://goo.gl/photos/RauBAvojZo7pqEg29
+466 - https://goo.gl/photos/Y2px5EWcYFbkyJq8A
+467 - https://goo.gl/photos/3G5Db1vAz6uTbQTy5
+468 - https://goo.gl/photos/JgM8FwBv1uvmyp3z9
+469 - https://goo.gl/photos/YGFmMRPLUwu7XFFV7
+470 - https://goo.gl/photos/dkZCTJD6qosYR9oD8
+471 - https://goo.gl/photos/u1o7AVU7WazsWXph9
+472 - https://goo.gl/photos/LMPZ53afJRzq4pKu9
+473 - https://goo.gl/photos/r2wry7ZeffzwFRPq7
+474 - https://goo.gl/photos/ddiMGpeDEcR9v7xT6
+475 - https://goo.gl/photos/L5StJRyjPUFNyWWg9
+476 - https://goo.gl/photos/GZDYd78pAmCna3sT9
+477 - https://goo.gl/photos/Jw1DG6iA6tUgYwD97
+478 - https://goo.gl/photos/5jGZRfs8Goz6WkTMA
+479 - https://goo.gl/photos/gUVdv8dzWz22J1sE7
+480 - https://goo.gl/photos/MmBZivxg7rSfABLJA
+481 - https://goo.gl/photos/prQ4dPAU4mXDtb8a9
+482 - https://goo.gl/photos/zC6kGVVKH6Z4z5h96
+483 - https://goo.gl/photos/BwwKxicooxZeXBNN9
+484 - https://goo.gl/photos/V9ESxWpNZqpNgAK89
+485 - https://goo.gl/photos/WSbiYC61wXZAReqLA
+486 - https://goo.gl/photos/hjPo9fu1obxCRQEZA
+487 - https://goo.gl/photos/uLYv73MjDCF5k6PT7
+488 - https://goo.gl/photos/P4P53cLNf7X5roWy5
+489 - https://goo.gl/photos/zEo2FD2bBZ1xAUo5A
+490 - https://goo.gl/photos/xEYZFcvwqa5yg7hr5
+491 - https://goo.gl/photos/ZHnrenuLZZ6rMd4J6
+492 - https://goo.gl/photos/kVb4W8PDTPBAwKjFA
+493 - https://goo.gl/photos/bcphB9ZAU32qZErRA
+494 - https://goo.gl/photos/MBfUADcK71ppTuSP9
+495 - https://goo.gl/photos/Xzqm4i1TCU1BwwZz5
+496 - https://goo.gl/photos/NrDFBSqkk986PADi8
+497 - https://goo.gl/photos/TaXg23zTb398vZMUA
+498 - https://goo.gl/photos/SWtASqqf7YqTkHcx6
+499 - https://goo.gl/photos/KUA64TArRzYTjACY9
+500 - https://goo.gl/photos/by9JrWu2dENxb4Ve6
+501 - https://goo.gl/photos/Hn6veAJbiRbd8CXN7
+502 - https://goo.gl/photos/ZpZiir6pMoggNrZX6
+503 - FALTANDO
+504 - https://goo.gl/photos/Whj84gDGHUeMyoND6
+505 - https://goo.gl/photos/3tNLfrHJi5B5NQCv5
+506 - https://goo.gl/photos/g3q8mo5bj3m6AShb9
+507 - https://goo.gl/photos/dZARUDz8p6Q9PHK88
+508 - https://goo.gl/photos/bhCpmm5NUu4LxY3A9
+509 - https://goo.gl/photos/T9zAJrmDoEYtgyuT7 
+510 - https://goo.gl/photos/DAMo6DqtSxZaApxPA
+511 - https://goo.gl/photos/yWnQXmCkMiyyGyQa7
+512 - https://goo.gl/photos/bZGPxHy4kZamb3W7A
+513 - https://goo.gl/photos/nuAmFxpCuGUjWqNx5
+514 - https://goo.gl/photos/2qAjXEAi4BeEKUMj6
+515 - https://goo.gl/photos/kYwwRDnXesFqjPn28
+516 - https://goo.gl/photos/Qpjiu5RQ11pmpwK69
+517 - https://goo.gl/photos/asc79Vtv3pA8GE9U7
+518 - https://goo.gl/photos/i89eeAsXBvs4eWwe8
+519 - https://goo.gl/photos/izXbisuxQwiJrebg8
+520 - https://goo.gl/photos/tji5By7L24ogEsAL8
+521 - https://goo.gl/photos/Rh3sDo3STvy3yea76
+522 - https://goo.gl/photos/vh8m3AY6N71b16oR6
+523 - https://goo.gl/photos/PxhifiEswF8RCzGN6
+524 - https://goo.gl/photos/dopNfAXCtWrcBCBL7
+525 - https://goo.gl/photos/mApT1qZEJCBD4Wvd9
+526 - https://goo.gl/photos/5SrwwJymHvcrsouG9
+527 - https://goo.gl/photos/oYoMX2bMKdEPqSYD6
+528 - https://goo.gl/photos/MCzWV6UkfWFZaUKi7
+529 - https://goo.gl/photos/8bneJpZbenuz5mjM8
+530 - https://goo.gl/photos/9pkGiND9HhTsHp5a6
+531 - https://goo.gl/photos/dGCvfUmrFQwF4Tow8
+532 - https://goo.gl/photos/BZ44t7NGQ933tREo6
+533 - https://goo.gl/photos/7ZiAFmyybfjwfWeX6
+534 - https://goo.gl/photos/9XUL7q9s5AoHf8Ud8
+535 - https://goo.gl/photos/RTxr85Ynjp17KTWKA
+536 - https://goo.gl/photos/1f3QyckWBK9beuaa7
+537 - https://goo.gl/photos/dwzPuUbxcaHnsjdF8
+538 - https://goo.gl/photos/gPR29GE36YFG7cJbA
+539 - https://goo.gl/photos/7d9jQf14U6sVdZGX9
+540 - https://goo.gl/photos/ZJLeHq9nh6McSLDA8
+541 - https://goo.gl/photos/RPsWCe6egXE9E3VV8
+542 - https://goo.gl/photos/fquax2bq58Yf2gwM7
+543 - https://goo.gl/photos/fduETGeKZ5ye3S4g6
+544 - https://goo.gl/photos/fE75eEFyvh5hvh7D8
+545 - https://goo.gl/photos/78XiNM1ADdMiWxga6
+546 - https://photos.app.goo.gl/hKH7eln5r7lLuFbl2
+547 - https://photos.app.goo.gl/kRAAuwm2uUhTAlxb2
+548 - https://photos.app.goo.gl/ktO7McrTUWJN9xj03
+549 - https://photos.app.goo.gl/s7069nsPBiTK2mFB2
+550 - https://photos.app.goo.gl/6cpxnkut9Ij2my7B3
+551 - https://photos.app.goo.gl/hAedd5yEcujlXwJ22
+552 - https://photos.app.goo.gl/877te16OnsoTfArx1
+553 - https://photos.app.goo.gl/M4HRLVWGHIw11Rl72
+554 - https://photos.app.goo.gl/h6flg3in5BW0wIvu1
+555 - https://photos.app.goo.gl/OULdxW9MOQEtxYLA3
+556 - https://photos.app.goo.gl/vH9kpGz1bCYpTq362
+557 - https://photos.app.goo.gl/MFrvz7BMHAz1HU492
+558 - https://photos.app.goo.gl/IACR66E7AD6da2P82
+559 - https://photos.app.goo.gl/GwEyjOlt8lpweUMZ2
+560 - https://photos.app.goo.gl/HrfvEDWrcuikwJMz2
+561 - https://photos.app.goo.gl/lVMgrrzHFZCCJFBA2
+562 - https://photos.app.goo.gl/oPapuypihb2BqlL73
+563 - https://photos.app.goo.gl/qQjj4yMNDoXMDLpv2
+564 - https://photos.app.goo.gl/vDd3Li3MeLroKNyK2
+565 - https://photos.app.goo.gl/w8OS0HCqOG35Ue1x1
+566 - https://photos.app.goo.gl/fRdcm9Wcxb2d2Ngn2
+567 - https://photos.app.goo.gl/kSxZHEDbyfSayVX12
+568 - https://photos.app.goo.gl/2jvfUEARRKANSFVB3
+569 - https://photos.app.goo.gl/yA1OKR2Tu7PNguvh1
+570 - https://photos.app.goo.gl/F17TMFKugyB3HC4O2
+571 - https://photos.app.goo.gl/7yDdoGb2EIYO9Twz2
+572 - https://photos.app.goo.gl/Gjzv6eLmK02v8JME3
+573 - https://photos.app.goo.gl/Smi0zqM5SE5IwlJq1
+574 - https://photos.app.goo.gl/yh1Nh1wXfaTwJ05L2
+575 - https://photos.app.goo.gl/u81tkitmECTKiDcR2
+576 - https://photos.app.goo.gl/DPIUaKmsFijx2HhA3
+577 - https://photos.app.goo.gl/t0zqvVRz8s1Hjwoq2
+578 - https://photos.app.goo.gl/sgDV1eAv9lwrO9ez1
+579 - https://photos.app.goo.gl/BKHE3MM28oBiTsjH3
+580 - https://photos.app.goo.gl/NiEa7Q8CSIbyvR7H3
+581 - https://photos.app.goo.gl/0VWr1tMA9cklyupr1
+582 - https://photos.app.goo.gl/f6kTDZQf6nBKBbpW2
+583 - https://photos.app.goo.gl/tVxgAinoKUsHET5S2
+584 - https://photos.app.goo.gl/DagfnkLaiZSVNXpo2
+585 - https://photos.app.goo.gl/irmMiSw1Ndv3vrBB3
+586 - https://photos.app.goo.gl/RUZoFwB00yx88Xzs1
+587 - https://photos.app.goo.gl/Pj0Z2rSri3MDhlEW2
+588 - https://photos.app.goo.gl/TFfULpUttkTNpTrs2
+589 - https://photos.app.goo.gl/l0gJtrYeIcBiKt7H2
+590 - https://photos.app.goo.gl/f1gOqqidALivLlzf1
+591 - https://photos.app.goo.gl/sAO0H697HAxWbOWz2
+592 - https://photos.app.goo.gl/kJb8MThOYM8UsjIN2
+593 - https://photos.app.goo.gl/yElmIT7CnG4czY2H3
+594 - https://photos.app.goo.gl/AcPwAN2CqC0tangn2
+595 - https://photos.app.goo.gl/oKisnUyf9TcIexe33
+596 - https://photos.app.goo.gl/l1ErDPHFm8DP7wMp2
+597 - https://photos.app.goo.gl/sZ0D6buaqc0z4KjW2
+598 - https://photos.app.goo.gl/dk0qPhVThel07DAq2
+599 - https://photos.app.goo.gl/ZSl1VUfsxnkza0VK2
+600 - https://photos.app.goo.gl/kQnWYtG3oYBtEX1E3
+
+
+601 - https://photos.app.goo.gl/7BXLPfm2TbC3HWbn1
+602 - https://photos.app.goo.gl/zBh5WUDmvu7LlJdT2
+603 - https://photos.app.goo.gl/AstE0rNs0VvpPaEU2
+604 - https://photos.app.goo.gl/LRlWb6BbiXS6LsGq1
+605 - https://photos.app.goo.gl/NSu35mrx17M4UE3Y2
+606 - https://photos.app.goo.gl/Ej0gNiDwjpdcFOO32
+607 - https://photos.app.goo.gl/puTukynkIkD8Ecfu1
+608 - https://photos.app.goo.gl/Wl41qIszGigZSbvh1
+609 - https://photos.app.goo.gl/PlGcF6mEuvt0sjsz2
+610 - https://photos.app.goo.gl/5qFyhJHTzA3QZrC23
+611 - https://photos.app.goo.gl/wBiPxJItW0baHYWc2
+612 - https://photos.app.goo.gl/h8eHnTTbTp0nCvOF2
+613 - https://photos.app.goo.gl/ShOAxg7cYAP7R4T32
+614 - https://photos.app.goo.gl/OMrOfHSR1Bs2lYjM2
+615 - https://photos.app.goo.gl/HwRg5lOQNHL8KJ2g1
+616 - https://photos.app.goo.gl/LRuCWHoNJW6EtVDv2
+617 - https://photos.app.goo.gl/LHcqTDU0maAYEmhl2
+618 - https://photos.app.goo.gl/kaz82ubZotaVqEGQ2
+619 - https://photos.app.goo.gl/SByO3myVr0YVszU72
+620 - https://photos.app.goo.gl/WPSa0BoBRe0k84Ir2
+621 - https://photos.app.goo.gl/KcmEyZQXCxcWkHeK2
+622 - https://photos.app.goo.gl/C1TOFC6jLvsb4O3a2
+623 - https://photos.app.goo.gl/FRu99aObLnYVF3uN2
+624 - https://photos.app.goo.gl/Pe4KX5jyJrVFYBG23
+625 - https://photos.app.goo.gl/iBxom445jNFIjURn1
+626 - https://photos.app.goo.gl/NP9tKvzZPlikR25r2
+627 - https://photos.app.goo.gl/Lr1tRpLbxLNy3a0n1
+628 - https://photos.app.goo.gl/xY2x0sF8b7D68KoH2
+629 - https://photos.app.goo.gl/Ws82x0uQlHS1j4xq2
+630 - https://photos.app.goo.gl/kCGoqp9ZgExAenQl2
+631 - https://photos.app.goo.gl/V74MOAxc08LZeNQJ2
+632 - https://photos.app.goo.gl/LedqnyZKpDMRiT4I2
+633 - https://photos.app.goo.gl/oF2qc1Z5PgXP6Fhu1
+634 - https://photos.app.goo.gl/n4DG7hpYDSMWH0UY2
+635 - https://photos.app.goo.gl/SJ2ryg8PzJdgy4Xs1
+636 - https://photos.app.goo.gl/X5JQWKyybxf1WHs92
+637 - https://photos.app.goo.gl/kfF4jmCwkFXSmBp13
+638 - https://photos.app.goo.gl/mGgbFfyEc1L0vK2T2
+639 - https://photos.app.goo.gl/xLTO7mvNiFlsLR9B3
+640 - https://photos.app.goo.gl/uZa0PW5xstqx8pCw2
+641 - https://photos.app.goo.gl/4JitsWL6137MwJnz2
+642 - https://photos.app.goo.gl/fSX1OKxNADN80ITq2
+643 - https://photos.app.goo.gl/skRkgntlrLFjRlIg2
+644 - https://photos.app.goo.gl/d507bIqDBz2UFXrh2
+645 - https://photos.app.goo.gl/VaoT0FbIKNAFtbG72
+646 - https://photos.app.goo.gl/CJSsKhbnzaJUBoKs2
+647 - https://photos.app.goo.gl/habR3ygvNykMqnEk1
+648 - https://photos.app.goo.gl/eTSLu8H8vFvBL82F3
+649 - https://photos.app.goo.gl/f03QUxePLmkA6T092
+650 - https://photos.app.goo.gl/0TLBBoNPtbNxBKHx2
+651 - https://photos.app.goo.gl/LxhLqAMCwrQh3kdj1
+652 - https://photos.app.goo.gl/pE0afBPf3oNb83WQ2
+653 - https://photos.app.goo.gl/d2mNTb9dsA3L4NDA3
+654 - https://photos.app.goo.gl/C710HRCNU27BDZRg1
+655 - https://photos.app.goo.gl/3OXPZkbtos2RruV13
+656 - https://photos.app.goo.gl/yS0ldndorgzLTqh52
+657 - https://photos.app.goo.gl/YHzU8Gk59k2P0U6u1
+658 - https://photos.app.goo.gl/CqlBtyyr7ADQw4Ev1
+659 - https://photos.app.goo.gl/oA82CwhDrs2N0QJs1
+660 - https://photos.app.goo.gl/wtFeUto8hOpKEnuB2
+661 - https://photos.app.goo.gl/cpkKfQe7bO1pjeLr2
+662 - https://photos.app.goo.gl/RIVrqzoWkCEH6pVc2
+663 - FALTANDO
+664 - FALTANO
+665 - https://photos.app.goo.gl/rVEm2NkXd8aGFLzh1
+666 - https://photos.app.goo.gl/43QKQisueodPCISg2
+667 - https://photos.app.goo.gl/8gdmVkJkIa4APMTp2
+668 - https://photos.app.goo.gl/rn7WSiIJUIFIJW4I3
+669 - https://photos.app.goo.gl/PKlQ0G3NDwUyifmE2
+670 - https://photos.app.goo.gl/zgOM8DJ30kTq3ocz1
+671 - https://photos.app.goo.gl/6Wk3V8CenOHLSsoS2
+672 - https://photos.app.goo.gl/VXV6Ul6bY5Tib4U73
+673 - https://photos.app.goo.gl/U8fuUDaQ0UsCfhNt1
+674 - https://photos.app.goo.gl/Fag5AgooqvhBxeMp2
+675 - https://photos.app.goo.gl/pwjbzYeNthCtMnwo2
+676 - https://photos.app.goo.gl/cF1U6g5t2VRLYEGE3
+677 - https://photos.app.goo.gl/FbF6mh5VbeJP9PmH2
+678 - https://photos.app.goo.gl/qigsct22tbe2UBql1
+679 - https://photos.app.goo.gl/g1IPtoDIBOCRMyKg1
+680 - https://photos.app.goo.gl/5TZx7Is6X7uqQ5d72
+681 - https://photos.app.goo.gl/tq4UUMAdplC7907H3
+682 - https://photos.app.goo.gl/5FM3Nyb7bYbqzwRy2
+683 - https://photos.app.goo.gl/RjcAkTqd50tShCll1
+684 - https://photos.app.goo.gl/Ji3L4bce2a1L8ch13
+685 - https://photos.app.goo.gl/wAVbLydLS7Lifu4l2
+686 - https://photos.app.goo.gl/KM4F3wj1a1CDvWEM2
+687 - https://photos.app.goo.gl/96j6CjEy3EgM88Lx1
+688 - https://photos.app.goo.gl/mmWaELuafk8BNSZw2
+689 - https://photos.app.goo.gl/6NFCHlqpbJwM86qR2
+690 - https://photos.app.goo.gl/4MJyAmBa6zVYGDMK2
+691 - https://photos.app.goo.gl/Easm1NtPPC9ra39E2
+692 - https://photos.app.goo.gl/qliObSp711nw51oZ2
+693 - https://photos.app.goo.gl/NAw0qspou41WwGQV2
+694 - https://photos.app.goo.gl/LP2BaoYh6fH0bEVL2
+695 - https://photos.app.goo.gl/A4KzAPwweRGL1DXA3
+696 - https://photos.app.goo.gl/svOtD4pwzr0SkY2x2
+697 - https://photos.app.goo.gl/4TgzcvqE0ZW4p5713
+698 - https://photos.app.goo.gl/LsXFkEzOXhGnmMam2
+699 - https://photos.app.goo.gl/vCTrgUfXMxaN0WOX2
+
+700 - https://photos.app.goo.gl/nMPIVsQRERuhnCrB2
+701 - https://photos.app.goo.gl/NNafoSDT8qboInCx1
+702 - https://photos.app.goo.gl/vGaF9h2foGa3iWog2
+703 - https://photos.app.goo.gl/DxzJADjcSRq2ItXi2
+704 - https://photos.app.goo.gl/g3tTzASwkye2Bp5d2
+705 - https://photos.app.goo.gl/JuKWITeXNJ3BaEDt1
+706 - https://photos.app.goo.gl/iU0TkQMhlvMJQgwX2
+707 - https://photos.app.goo.gl/YOtS5c82Xdotu4zE3
+708 - https://photos.app.goo.gl/aeDIreZDKyXAJ9jQ2
+709 - https://photos.app.goo.gl/fqkXJ9gZCS4XtPzC2
+710 - https://photos.app.goo.gl/eNRXhodDKVgH1SXE2
+711 - https://photos.app.goo.gl/1X7WQoaWlL7d2mcy2
+712 - https://photos.app.goo.gl/08PorCk0Qcpvefhu2
+713 - https://photos.app.goo.gl/ni7vaic2LD1KQHkr1
+714 - https://photos.app.goo.gl/qlBwpSSTQA7OfXk73
+715 - 
+716 - 
+717 - 
+718 - 
+719 - 
+720 - 
+721 - 
+722 - 
+723 - 
+724 - 
+725 - 
+726 - 
+727 - 
+728 - 
+729 - 
+730 - 
+731 - 
+732 - 
+733 - 
+734 - 
+735 - 
+736 - 
+737 - 
+738 - 
+739 - 
+740 - 
+741 - 
+742 - 
+743 - 
+744 - 
+745 - 
+746 - 
+747 - 
+748 - 
+749 - 
+750 - 
+751 - 
+752 - 
+753 - 
+754 - 
+755 - 
+756 - 
+757 - 
+758 - 
+759 - 
+760 - 
+761 - 
+762 - 
+763 - 
+764 - 
+765 - 
+766 - 
+767 - 
+768 - 
+769 - 
+770 - 
+771 - 
+772 - 
