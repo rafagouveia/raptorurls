@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PHPHtmlParser": "src/"
+            "PHPHtmlParser\\": "src\\"
         }
     },
     "minimum-stability": "dev",
